@@ -5,11 +5,11 @@
   </picture>
 </p>
 
+<p align="center">Building <a href="https://github.com/Ikaleio/lm-detector">lm-detector</a>, model fingerprint detection, and <a href="https://github.com/Ikaleio/monoize">monoize</a>, a Rust gateway for LLM APIs.<br>正在做 <a href="https://github.com/Ikaleio/lm-detector">lm-detector</a>（模型指纹检测）和 <a href="https://github.com/Ikaleio/monoize">monoize</a>（Rust 写的 LLM API 网关）。</p>
+
 <p align="center">College student from China and former competitive programmer.<br>来自中国的大学生，前信息学竞赛生。</p>
 
 <p align="center">Full-stack development and DevOps, mostly with TypeScript, Bun and Rust.<br>做全栈开发和 DevOps，主要用 TypeScript、Bun 和 Rust。</p>
-
-<p align="center">Building <a href="https://github.com/Ikaleio/monoize">monoize</a>, a Rust gateway for LLM APIs, and <a href="https://github.com/Ikaleio/lm-detector">lm-detector</a>, model fingerprint detection.<br>正在做 <a href="https://github.com/Ikaleio/monoize">monoize</a>（Rust 写的 LLM API 网关）和 <a href="https://github.com/Ikaleio/lm-detector">lm-detector</a>（模型指纹检测）。</p>
 
 <p align="center">Tinkering with coding agents and their tooling: <a href="https://github.com/Ikaleio/skills">skills</a>, browser automation and MCP servers.<br>在折腾 coding agent 及其工具，包括 <a href="https://github.com/Ikaleio/skills">skills</a>、浏览器自动化和 MCP 服务器。</p>
 
@@ -22,7 +22,12 @@
 
 <p align="center"><a href="https://ikale.io">ikale.io</a> · <a href="https://t.me/Ikaleio">Telegram</a> · <a href="mailto:me@ikale.io">me@ikale.io</a></p>
 
-<h2 align="center">More Projects · 更多项目</h2>
+<h2 align="center">Projects · 项目</h2>
+
+<p align="center">
+  <a href="https://github.com/Ikaleio/lm-detector"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/pin-lm-detector-dark.svg"><img alt="lm-detector" src="assets/cards/pin-lm-detector-light.svg"></picture></a>
+  <a href="https://github.com/Ikaleio/monoize"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/pin-monoize-dark.svg"><img alt="monoize" src="assets/cards/pin-monoize-light.svg"></picture></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Ikaleio/argon-luogu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/pin-argon-luogu-dark.svg"><img alt="argon-luogu" src="assets/cards/pin-argon-luogu-light.svg"></picture></a>

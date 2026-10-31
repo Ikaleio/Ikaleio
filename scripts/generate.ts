@@ -26,7 +26,7 @@ function cardColors(mode: Mode): Record<string, string> {
   };
 }
 
-const featuredRepos = ["argon-luogu", "ikapb-oss", "transit", "patchright-cli"];
+const featuredRepos = ["lm-detector", "monoize", "argon-luogu", "ikapb-oss", "transit", "patchright-cli"];
 
 const cards: { name: string; render: Renderer; options: Record<string, string> }[] = [
   { name: "stats", render: renderers.api, options: { show_icons: "true", rank_icon: "github", custom_title: "GitHub Stats", disable_animations: "true" } },
